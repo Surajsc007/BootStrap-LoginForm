@@ -4,7 +4,7 @@
     box-sizing: border-box;
  }
  .row{
-     background-color: white;
+     background-color: rgba(0, 0, 0, 0);
      border-radius: 30px;
      box-shadow: 12px 12px 27px;
      width: auto;
@@ -14,9 +14,9 @@
      width: 130%;
      background-size: contain, cover;
      height: 37.5rem;
-     border-top-left-radius: 290px;
+     border-top-right-radius: 290px;
      border-bottom-right-radius: 290px;
-     border-top-right-radius: 30px;
+     border-top-left-radius: 30px;
      border-bottom-left-radius: 30px;
  }
  .login h1{
